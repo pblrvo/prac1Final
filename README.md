@@ -23,3 +23,7 @@ limitations under the License.
 -Para ejecutar el programa: java -jar Matematicas.jar (introducir numero de puntos a generar en el programa)
 -Para crear el java doc: make javadoc
 
+
+
+
+
